@@ -36,7 +36,7 @@ async def preços(ctx):
     await ctx.send(aman)
     aman = getCrypto('cardano')
     await ctx.send(aman)
-    aman = getCrypto('binancecoin')
+    aman = getCrypto('bnb')
     await ctx.send(aman)
     aman = getCrypto('dogecoin')
     await ctx.send(aman)
